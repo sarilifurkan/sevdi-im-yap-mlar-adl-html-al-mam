@@ -1,2 +1,2 @@
-# sevdi-im-yap-mlar-adl-html-al-mam
+# sevdigim yapimlarin adlari
 htmle pratiğim
